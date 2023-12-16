@@ -1,6 +1,6 @@
 # AudioBookSync
 
-<img src="https://s5.gifyu.com/images/Sitk1.gif" alt="Alt Text" width="300"/>
+<img src="https://s5.gifyu.com/images/Sitk1.gif" alt="Alt Text" width="400"/>
 
 Welcome to AudioBookSync! 
 
