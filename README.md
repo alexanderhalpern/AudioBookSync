@@ -1,5 +1,7 @@
 # AudioBookSync
 
+![Alt Text](https://s5.gifyu.com/images/Sitk1.gif)
+
 Welcome to AudioBookSync! 
 
 With AudioBookSync, you can sync up the book that you are reading with the Audiobook. If you are ever frequently switching between reading a book and listening to the audiobook for that book, you might have found yourself trying to pinpoint where you are by hearing a few words in the audiobook and trying to find them in your book or vice versa. 
