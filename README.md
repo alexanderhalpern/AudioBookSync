@@ -6,7 +6,7 @@ Welcome to AudioBookSync!
 
 With AudioBookSync, you can sync up the book that you are reading with the Audiobook. If you have ever switched between reading a book and listening to the audiobook for that book, **you might have found yourself trying to pinpoint the page that you are on in the book by jumping around the audiobook, listening to chunks of text and trying to triangulate where you are in the book. <ins>These days are over.</ins>** 
 
-AudioBookSync allows you to switch between book and audiobook format easily by allowing you to search for just a few keywords that indicate where you are in the physical book and then receive the exact timestamp of where you are in the audiobook!
+# # AudioBookSync allows you to switch between book and audiobook format easily by allowing you to search for just a few keywords that indicate where you are in the physical book and then receive the exact timestamp of where you are in the audiobook!
 
 # Usage
 To use AudioBookSync, simply clone the repository and run `python AudioBookSync` with the following arguments:
